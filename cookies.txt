@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.freshchat.com	TRUE	/	FALSE	1999999999	__cf_bm	9_YbLpg5iFpv1RiX1EFRL7bD6plHpe3ldUtcEiqpx8s-1737440736-1.0.1.1-pz6U6hIkjUn.4fOMXQWKaMaBVv1nov54WEzs7lOTHYrgRmZ3k4GFj3vk5IZ65zA7AZA1iGHhIB2FYUsiKoCwkQ
+wchat.freshchat.com	TRUE	/	FALSE	1999999999	SameSite	None
+
